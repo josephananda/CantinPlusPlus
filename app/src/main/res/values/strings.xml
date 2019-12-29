@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CantinPlusPlus</string>
+    <string name="cantinplusplus">Cantin++</string>
+    <string name="subtitle_splash">Modernize your cantin</string>
 </resources>
