@@ -2,4 +2,14 @@
     <string name="app_name">CantinPlusPlus</string>
     <string name="cantinplusplus">Cantin++</string>
     <string name="subtitle_splash">Modernize your cantin</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">E-Mail</string>
+    <string name="nohp">No HP</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Re-Type Password</string>
+    <string name="bysigningup">By Signing up, you agree with our Privacy Policy and Terms</string>
+    <string name="haveanaccount">Have an account? Sign in now</string>
+    <string name="doesnthaveaccount">Doesn\'t have any account? Sign up now</string>
 </resources>
