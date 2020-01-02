@@ -37,7 +37,7 @@
         app:layout_constraintBottom_toBottomOf="parent">
 
         <ImageView
-            android:id="@+id/applogo"
+            android:id="@+id/app_logo"
             android:layout_width="107dp"
             android:layout_height="124dp"
             android:layout_marginTop="41dp"
@@ -45,7 +45,7 @@
             android:src="@drawable/applogo"/>
 
         <TextView
-            android:id="@+id/title"
+            android:id="@+id/app_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/cantinplusplus"
@@ -55,7 +55,7 @@
             android:layout_gravity="center"/>
 
         <TextView
-            android:id="@+id/subtitle"
+            android:id="@+id/app_subtitle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/subtitle_splash"
