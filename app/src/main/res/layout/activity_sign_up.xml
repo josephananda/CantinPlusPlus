@@ -15,7 +15,7 @@
         android:paddingStart="19dp"
         android:paddingEnd="19dp"
         android:layout_marginTop="44dp"
-        android:src="@drawable/applogo"
+        android:src="@drawable/logo"
         android:background="@color/whitePrimary"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"

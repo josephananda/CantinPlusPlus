@@ -8,4 +8,5 @@
     <color name="blackPrimary">#000000</color>
     <color name="bluePrimary">#000044</color>
     <color name="blueSecondary">#7FABCD</color>
+    <color name="blueThird">#397E96</color>
 </resources>

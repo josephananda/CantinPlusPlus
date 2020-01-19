@@ -38,7 +38,7 @@ public class SplashAct extends AppCompatActivity {
             @Override
             public void run() {
             //Merubah activity ke activity lain
-            Intent gotosignin = new Intent(SplashAct.this, SignInAct.class);
+            Intent gotosignin = new Intent(SplashAct.this, OpeningActivity.class);
             startActivity(gotosignin);
             finish();
             }

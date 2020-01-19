@@ -15,8 +15,7 @@
         android:paddingStart="19dp"
         android:paddingEnd="19dp"
         android:layout_marginTop="44dp"
-        android:src="@drawable/applogo"
-        android:background="@color/whitePrimary"
+        android:src="@drawable/logo"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"/>
@@ -35,8 +34,7 @@
             android:layout_height="wrap_content"
             android:text="@string/signin"
             android:textSize="24sp"
-            android:textColor="@color/bluePrimary"
-            />
+            android:textColor="@color/bluePrimary" />
 
         <EditText
             android:id="@+id/xemail"

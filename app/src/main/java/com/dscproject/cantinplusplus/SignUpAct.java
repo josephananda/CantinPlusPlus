@@ -25,5 +25,13 @@ public class SignUpAct extends AppCompatActivity {
                 startActivity(gotosignin);
             }
         });
+        btn_sign_up = findViewById(R.id.btn_sign_up);
+        btn_sign_up.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent goToMain = new Intent(SignUpAct.this, MainActivity.class);
+                startActivity(goToMain);
+            }
+        });
     }
 }

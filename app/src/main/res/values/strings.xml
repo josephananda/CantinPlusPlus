@@ -12,4 +12,46 @@
     <string name="bysigningup">By Signing up, you agree with our Privacy Policy and Terms</string>
     <string name="haveanaccount">Have an account? Sign in now</string>
     <string name="doesnthaveaccount">Doesn\'t have any account? Sign up now</string>
+
+
+    <string-array name="data_cantin_name">
+        <item>KFC FeelKom</item>
+    </string-array>
+
+    <string-array name="data_cantin_favfood">
+        <item> Ayam Geprek KFC\n
+        Super Besar 2 HCC\n
+        Nasi Uduk KFC</item>
+    </string-array>
+
+    <string-array name="data_cantin_photo">
+        <item>@drawable/kfc_logo</item>
+    </string-array>
+
+    <string-array name="data_food_name">
+        <item>Ayam Geprek KFC</item>
+        <item>Super Besar 1 HCC</item>
+        <item>Super Besar 2 HCC</item>
+        <item>Nasi Uduk KFC</item>
+        <item>Big Mac KFC</item>
+        <item>Rice Cooker KFC</item>
+    </string-array>
+
+    <string-array name="data_food_description">
+        <item>Ayam geprek dari kfc yang hanya ada di filkom :v</item>
+        <item>Satu potong dada Ayam B aja dari KFC + Coca Cola + gratis nasi</item>
+        <item>Dua potong dada Ayam B aja dari KFC + Coca Cola + gratis nasi</item>
+        <item>Nasi uduk khas cak bejo plus ayam KFC</item>
+        <item>Burger besar mcd khas KFC</item>
+        <item>Masak Nasi pake ayam KFC</item>
+    </string-array>
+
+    <string-array name="data_food_photo">
+        <item>@drawable/geprek</item>
+        <item>@drawable/super_besar</item>
+        <item>@drawable/super_besar2</item>
+        <item>@drawable/nasiuduk</item>
+        <item>@drawable/bigmac</item>
+        <item>@drawable/kfcrice</item>
+    </string-array>
 </resources>

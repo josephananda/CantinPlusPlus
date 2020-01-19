@@ -9,16 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SignUpAct"></activity>
+        <activity android:name=".FinishFoodActivity"></activity>
+        <activity android:name=".CookingActivity" />
+        <activity android:name=".OrderFoodActivity" />
+        <activity android:name=".CantinDetailActivity" />
+        <activity android:name=".CantinActivity" />
+        <activity android:name=".OpeningActivity" />
+        <activity android:name=".SignUpAct" />
         <activity android:name=".SignInAct" />
-        <activity android:name=".SplashAct" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".SplashAct">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity" />
     </application>
 
 </manifest>
